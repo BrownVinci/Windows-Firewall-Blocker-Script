@@ -32,6 +32,7 @@ They are 100% offline, safe, and reversible — they only interact with **Window
 | `Firewall_Blocker.bat` | Main script — blocks `.exe` files from internet access. |
 | `Unblock_All.bat` | Cleanup script — removes all "Blocked:" rules. |
 | `README.md` | This explanation file. |
+| `LICENSE` | GNU GENERAL PUBLIC LICENSE |
 
 ---
 
